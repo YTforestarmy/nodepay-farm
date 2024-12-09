@@ -2,7 +2,7 @@
 - Daily Claim
 - Multi Account Keep-Alive Support.
 
-# [GET RESIDENTIAL PROXIES FROM HERE](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
+# [GET RESIDENTIAL PROXIES FROM HERE](https://proxys.io/?refid=227168)
 
 # NOTE
 
@@ -88,7 +88,7 @@ CARGO_BUILD_TARGET="$(rustc -Vv | grep "host" | awk '{print $2}')" pip install m
 pkg install git
 ```
 ```
-git clone https://github.com/ashtrobe/nodepay-farm.git
+git clone https://github.com/YTforestarmy/nodepay-farm.git
 ```
 ## Install Requirements
 ```
